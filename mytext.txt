@@ -1,0 +1,9 @@
+hola
+este es
+un texto para
+probar un metodo de lectura
+de archivos en ruby
+vamos a ver si devuelve la linea
+donde se encuentra la palabra especificada.
+funcionó, ahora quiero ver si me devuelve todas las lineas donde dice ruby o solo una.
+que bien,  devuelve todas las lineas que incluyen la palabra ruby
